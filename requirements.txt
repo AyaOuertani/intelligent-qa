@@ -1,1 +1,7 @@
+#M0 : testing
 pytest==9.2.0
+
+#M1: data loading and exploration
+datasets==5.2.0
+matplotlib==3.11.2
+nltk == 3.10.4
